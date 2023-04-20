@@ -4,10 +4,9 @@
 
 # Table of Contents
 
-1.
-2. [Current Todos](/todos.md)
-3. [Completed Todos](/completedTodos.md)
-4. [Markdown](#using-markdown)
+1. [Current Todos](/todos.md)
+2. [Completed Todos](/completedTodos.md)
+3. [Markdown](#using-markdown)
     1. [What is Markdown?](#what-is-markdown)
     2. [Helpful Links](#helpful-links)
 
