@@ -2,9 +2,6 @@
 
 ## Philip
 
--   Review and complete comments on merge request
--   Add completed todos to `completedTodos.md`
-
 ## Dylan
 
 -   Add atomic commit to readme
